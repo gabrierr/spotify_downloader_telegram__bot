@@ -16,7 +16,7 @@ spotifyy = spotipy.Spotify(
 genius = lyricsgenius.Genius('biZZReO7F98mji5oz3cE0FiIG73Hh07qoXSIzYSGNN3GBsnY-eUrPAVSdJk_0_de')
 
 
-token = 'token bot'
+token = '1613133198:AAF5-yAUKzFiptkmrTGw7qNp5OhY-91144s'
 bot = telepot.Bot(token)
 
 def DOWNLOADMP3(link,chat_id):
